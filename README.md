@@ -4,7 +4,7 @@
   
 <sub> 
 
-![](https://komarev.com/ghpvc/?username=Bigguykoi&color=211732&label=ㅤㅤㅤTHEㅤIRONㅤLEGIONㅤㅤㅤ&style=plastic)
+![](https://komarev.com/ghpvc/?username=Bigguykoi&color=211732&label=ㅤㅤㅤwretchedㅤㅤㅤ&style=plastic)
 
 
   
