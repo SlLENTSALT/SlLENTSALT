@@ -17,7 +17,7 @@
 ㅤㅤ
 [pronouns . pg](https://en.pronouns.page/@irnman)
 ㅤㅤ
-[strawpage](https://tny-strk.straw.page)
+[strawpage](https://sllentsaltcookle.straw.page)
 ㅤㅤ
 [rentry](https://rentry.co/rogersstark)
 
