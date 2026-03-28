@@ -13,12 +13,10 @@
 <br />
 <br />
 
-ㅤ[新book](https://ironman.atabook.org)
-ㅤㅤ
-[pronouns . pg](https://en.pronouns.page/@irnman)
-ㅤㅤ
+[新book](https://ironman.atabook.org)
+ㅤ
 [strawpage](https://sllentsaltcookle.straw.page)
-ㅤㅤ
-[rentry](https://rentry.co/rogersstark)
+ㅤ
+[rentry](https://rentry.co/SOLlDARlTY)
 
 </sub> 
