@@ -17,6 +17,6 @@
 ㅤ
 [strawpage](https://sllentsaltcookle.straw.page)
 ㅤ
-[rentry](https://rentry.co/SOLlDARlTY)
+[rentry](https://rentry.co/Ietsilencereign)
 
 </sub> 
