@@ -4,7 +4,7 @@
   ![](https://komarev.com/ghpvc/?username=Bigguykoi&color=eaeade&label=ㅤㅤㅤButterfliesㅤㅤㅤ&style=plastic)
  
 
-  <p align="center"> ${\textsf{\color{#ab463d}✿}}$
+
     
 <br />
   
@@ -16,6 +16,7 @@
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/4be52b67-062e-4fc2-8614-5bbe86468f77" />
 
 <br />
+  <p align="center"> ${\textsf{\color{#ab463d}✿}}$
 <br />
 
 [新book](https://ironman.atabook.org)
