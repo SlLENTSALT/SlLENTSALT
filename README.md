@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  ![](https://komarev.com/ghpvc/?username=Bigguykoi&color=eaeade&label=ㅤㅤㅤButterfliesㅤㅤㅤ&style=plastic)
+  ![](https://komarev.com/ghpvc/?username=Bigguykoi&color=914c89&label=ㅤㅤㅤButterfliesㅤㅤㅤ&style=plastic)
  
 
 
@@ -13,10 +13,11 @@
 
 
   
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/4be52b67-062e-4fc2-8614-5bbe86468f77" />
+<img width="732" height="732" alt="image" src="https://github.com/user-attachments/assets/13c266e1-b611-4504-b363-17d7d721ed7c" />
+
 
 <br />
-  <p align="center"> ${\textsf{\color{#ab463d}✿}}$
+  <p align="center"> ${\textsf{\color{#544885}✩}}$
 <br />
 
 [新book](https://ironman.atabook.org)
