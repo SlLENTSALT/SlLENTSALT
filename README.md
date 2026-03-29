@@ -17,7 +17,7 @@
 
 
 <br />
-  <p align="center"> ${\textsf{\color{#3c2555}✩}}$
+  <p align="center"> ${\textsf{\color{#6b4c90}Is this what you believe in?}}$
 <br />
 
 [新book](https://ironman.atabook.org)
