@@ -1,14 +1,21 @@
+
 <div align="center">
-<br />
+  
+ 
+  
 <br />
   
-<sub> 
+  <p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3176d66wffyhd4zfphvsyk44it3y&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color_cover=false&bar_color=968f8e">
+  </a>
+</p>
+  
 
-![](https://komarev.com/ghpvc/?username=Bigguykoi&color=211732&label=ㅤㅤㅤwretchedㅤㅤㅤ&style=plastic)
 
 
   
-![Silent_salt_gacha_animation_4_1_2](https://github.com/user-attachments/assets/9087c53f-7b35-4cd1-bcb7-0eb91ad187ea)
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/4be52b67-062e-4fc2-8614-5bbe86468f77" />
 
 <br />
 <br />
@@ -20,3 +27,5 @@
 [rentry](https://rentry.co/Ietsilencereign)
 
 </sub> 
+<br />
+<br />
