@@ -3,7 +3,9 @@
 
   ![](https://komarev.com/ghpvc/?username=Bigguykoi&color=eaeade&label=ㅤㅤㅤButterfliesㅤㅤㅤ&style=plastic)
  
-  
+
+  <p align="center"> ${\textsf{\color{#ab463d}✿}}$
+    
 <br />
   
 
