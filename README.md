@@ -20,7 +20,7 @@
   <p align="center"> ${\textsf{\color{#624389}Is this what you believe in?}}$
 <br />
 
-[新book](https://ironman.atabook.org)
+[新book](https://tonystark.atabook.org)
 ㅤ
 [strawpage](https://sllentsaltcookle.straw.page)
 ㅤ
