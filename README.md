@@ -1,8 +1,10 @@
 
 <div align="center">
 
-  ![](https://komarev.com/ghpvc/?username=Bigguykoi&color=691e90&label=ㅤㅤㅤSoulsㅤㅤㅤ&style=plastic)
+  ![](https://komarev.com/ghpvc/?username=Bigguykoi&color=27202d&label=ㅤㅤㅤSoulsㅤㅤㅤ&style=plastic)
  
+
+<p align="center"><img src="https://github.com/user-attachments/assets/1b8a45ad-c55b-42cb-9ec3-712341a4db27" /></a></p>
 
 
     
@@ -11,13 +13,16 @@
 
 
 
+<p align="center"><img src="https://github.com/user-attachments/assets/84cafd83-8846-4095-ba60-3c32a29bfd33" /></a></p>
 
-<img width="732" height="732" alt="image" src="https://github.com/user-attachments/assets/5accd380-2952-42b2-936a-385a2e38bff7" />
 
 
 
 <br />
-  <p align="center"> ${\textsf{\color{#624389}Is this what you believe in?}}$
+
+<img src="https://github.com/user-attachments/assets/300a53e9-39dc-4d48-abef-47b0cc9109de" width="30%">
+
+
 <br />
 
 [新book](https://tonystark.atabook.org)
@@ -28,11 +33,5 @@
 
 </sub> 
 <br />
-<br />
-<details>
-  <summary>spotify</summary><h5 align="center"> 
-  
-  <a href="https://github.com/kittinan/spotify-github-profile">
-   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3176d66wffyhd4zfphvsyk44it3y&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color_cover=false&bar_color=968f8e">
 
-  
+<p align="center"><img src="https://github.com/user-attachments/assets/96cf526b-f915-4800-8386-ca5aab9117dd3"/></a></p> 
